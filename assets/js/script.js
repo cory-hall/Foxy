@@ -52,8 +52,6 @@ function landingShow() {
    savedPageEl.className = "hide";
 
    loadCards();
-
-   console.log(savedFoxes)
 }
 
 // function to build each card
